@@ -17,8 +17,10 @@ Answer : Software engineering is like building a house - it requires a plan (SDL
 
 Answer: Software Development Life Cycle (SDLC) provides a framework that defines a structured approach to software development with phases like planning, design, development, testing, deployment, and maintenance.
 
+
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
+
 
 Answer: 
 The Software Development Life Cycle (SDLC)  defines a structured approach to software development. Here's a breakdown of the common phases:
@@ -58,6 +60,7 @@ New features may be added based on user feedback or evolving library needs (e.g.
 The app is updated regularly to address security vulnerabilities and ensure compatibility with new operating systems on user devices.
 
 Agile vs. Waterfall Models:
+
 There are different SDLC models that define how these phases are approached. Here's a quick comparison of two popular models:
 
 Waterfall Model: This is a traditional, sequential approach where each phase must be completed before moving to the next. Imagine a waterfall, where water flows down in a single direction. This model offers a structured approach but can be inflexible and slow to adapt to changing requirements.
