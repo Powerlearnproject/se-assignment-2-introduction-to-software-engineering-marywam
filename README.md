@@ -28,24 +28,29 @@ Goals: Increase library card sign-ups, improve access to digital resources, and 
 User Needs: Users want to easily search for library materials, manage their accounts, and renew book loans remotely. Librarians need a system to manage patron accounts and track overdue books.
 Requirements: The app should allow users to browse the library catalog, place holds on books, and receive notifications when materials are available. It should also integrate with the library's existing database system.
 Project Plan: Define development timelines (e.g., 3 months), assign tasks to developers and designers, and estimate project costs.
+
 2. Design (Translating requirements into a blueprint):
 
 User Interface (UI) Design: Mockups and wireframes are created to illustrate how users will interact with the app (e.g., search bar, book details screen, checkout process).
 System Architecture: Decisions are made about the app's back-end infrastructure, databases, and security measures.
 Data Structures: How information like book titles, author names, and user accounts will be stored and organized within the app is defined.
+
 3. Development (Bringing the design to life):
 
 Programmers write code using chosen languages (e.g., Java, Kotlin) to implement the functionalities designed in the previous phase.
 APIs (Application Programming Interfaces) may be used to connect the app to the library's database system.
+
 4. Testing (Ensuring a smooth user experience):
 
 Unit Testing: Individual pieces of code are tested to ensure they function correctly. Imagine testing the login functionality or the search bar independently.
 Integration Testing: Different parts of the app are tested together to see if they work seamlessly. This is like checking if the shopping cart feature interacts correctly with the payment processing system in an e-commerce app.
 User Acceptance Testing (UAT): A group of representative users test the app to identify any usability issues and ensure it meets their needs. Librarians and library patrons might be involved in this stage for the library app.
+
 5. Deployment (Making the app available to users):
 
 The app is released to the appropriate app store (e.g., Apple App Store, Google Play Store).
 Users can now download and install the library app on their smartphones.
+
 6. Maintenance (Keeping the app functional and up-to-date):
 
 Bugs reported by users are fixed (e.g., a crash during checkout).
