@@ -15,7 +15,7 @@ Software Development Life Cycle (SDLC):
 
 Answer : Software engineering is like building a house - it requires a plan (SDLC), considering the big picture (requirements) and using various tools (programming) to create a sturdy and functional end product (reliable software). Traditional programming, on the other hand, is more like carpentry - focusing on the specific skill of crafting pieces (code) without a broader plan.
 
-Answer: SDLC provides a framework for this systematic approach with phases like planning, design, development, testing, deployment, and maintenance.
+Answer: SDLC provides a framework that defines a structured approach to software development with phases like planning, design, development, testing, deployment, and maintenance.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
