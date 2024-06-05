@@ -220,6 +220,7 @@ A version control system (VCS) is a software tool that helps developers track ch
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Software Project Management:
 
+Answer:
 
 https://www.atlassian.com/git/tutorials/what-is-version-control#:~:text=Version%20control%20software%20keeps%20track,disruption%20to%20all%20team%20members.
 Answer:
@@ -233,6 +234,23 @@ the primary benefits you should expect from version control are as follows.
 
 3. Traceability. Being able to trace each change made to the software and connect it to project management and bug tracking software such as Jira, and being able to annotate each change with a message describing the purpose and intent of the change can help not only with root cause analysis and other forensics. Having the annotated history of the code at your fingertips when you are reading the code, trying to understand what it is doing and why it is so designed can enable developers to make correct and harmonious changes that are in accord with the intended long-term design of the system.
 
+
+Here are some of the most widely used VCS options and their key features:
+
+1. Git- The reigning champion! Git is a free, open-source VCS known for its speed, efficiency, and powerful features.
+Branching: Git excels at branching, allowing developers to create isolated workspaces for new features or bug fixes.
+Merging: Merging changes from different branches back into the main codebase is streamlined with Git.
+Distributed Workflow: Git allows for a distributed development workflow, where each developer has a complete copy of the codebase on their machine. This facilitates offline work and collaboration.
+
+2. Subversion (SVN)-An older but still popular option, SVN is known for its simplicity and ease of use.
+Centralized Workflow: SVN uses a centralized repository where the main copy of the codebase resides. Developers check out and check in changes to this central repository.
+Simpler Branching: Branching functionalities in SVN are not as advanced as Git, but it offers adequate support for basic branching needs.
+
+3. Mercurial-Another open-source VCS, Mercurial offers a distributed development workflow similar to Git.
+Lightweight and Efficient: Mercurial is known for being lightweight and efficient, making it a good choice for smaller projects.
+User-Friendly Interface: Mercurial offers a user-friendly interface and command-line tools for interacting with the VCS.
+
+Software project management is the process of planning, organizing, and overseeing the development of software applications.
 
 
 
